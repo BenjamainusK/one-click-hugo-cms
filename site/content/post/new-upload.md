@@ -1,10 +1,10 @@
 ---
-title: New Upload
+title: EmojiPOP
 date: 2019-03-04T08:42:16.760Z
 description: Het werkt!
-image: /img/products-grid1.jpg
+image: ''
 ---
->
+> Veel speelplezier!
 
 <!-- Place this code where you want the game to appear -->
 
